@@ -1,16 +1,17 @@
-# INSERT YOUR TITLE HERE
+# GitHub Practice
 
 # Overview
-Write in an overview / background for your repository.
+This repository was created for users new to GitHub. It is public and will allow you to practice cloning, branching and pull requests.
+
 
 # Instructions
-If your repository has instructions, include them here.
+TBD
 
 # Notes and Considerations
-Add any notes and considerations here.
+None.
 
 # Issues or Questions
-Please post an issue in this repository. Questions can be sent to [enter your email address here].
+Post an issue to this repository.
 
 # License Standard Notice
 The repository utilizes code licensed under the terms of the Apache Software License and therefore is licensed under ASL v2 or later.
@@ -23,5 +24,4 @@ You should have received a copy of the Apache Software License along with this p
 
 The source code forked from other open source projects will inherit its license.
 
-# Privacy Standard Notice [Only needed for public repositories]
-This repository contains only non-sensitive, publicly available data and information.
+
