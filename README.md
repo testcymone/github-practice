@@ -1,7 +1,7 @@
-# GitHub Practice
+# GitHub Practice 🏃‍♀️
 
 # Overview
-This repository was created for users new to GitHub. It is public and will allow you to practice cloning, branching and pull requests.
+This repository was created for users new to GitHub. It is public and should be used to practice cloning, branching and pull requests.
 
 
 # Instructions
